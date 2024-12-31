@@ -13,9 +13,9 @@ Tổng thời lượng thuyết trình: nhóm 1 người = 10p (bao gồm cả d
    1. C++11(?)
 1. Related Works (1.5p)
 1. Algorithm + Implementation (2p)
-1. Future Works (challenges + plan + timeline) (2.5p)
+1. Conclusion (accomplishments + future works) (2.5p)
 
-total = 2 + 1.5 + 1.5 + 2 + 0.2 + 2.5 = 9.7p
+total = 2 + 1.5 + 1.5 + 2 + 2.5 = 9.5p
 
 ## Story
 
@@ -60,4 +60,4 @@ total = 2 + 1.5 + 1.5 + 2 + 0.2 + 2.5 = 9.7p
 
 #### C++11
 
-- Ở đây không biết nói gì cả…
+- Ở đây chưa biết nói gì cả…

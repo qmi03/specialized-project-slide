@@ -51,11 +51,12 @@
 == Implementation using RMA Operation
 == Preliminary Result
 
-= Conclusion + Future Works
+= Conclusions
 == Accomplishments
 == Challenges
-== Plan
-== Timeline
+== Future Works
+=== Plan
+=== Timeline
 
 
 Tổng thời lượng thuyết trình: nhóm 1 người = 10p (bao gồm cả demo)
